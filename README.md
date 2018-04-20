@@ -1,1 +1,1 @@
-# Prediction_Child-s_Birth_Weight
+# Predicting child’s weight using models : Least Square Regression, Ridge Regression, K Nearest Neighbour’s and Decision Trees.  Dataset used is data from National Vital Statistics System which is a part of National Center for Health Statistics. These models are compared with Mean Absolute Error and RMSE method values.
